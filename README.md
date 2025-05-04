@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.14370-b31b1b.svg)](#)
 [![Peer Review](https://img.shields.io/badge/Publication%20Status-Preprint-gold)](#)
-[![Paper Type](https://img.shields.io/badge/Paper%20Type-Dataset-brightgreen)](https://projects.dfki.uni-kl.de/textureless_object_data/)
+[![Paper Type](https://img.shields.io/badge/Paper%20Type-Dataset-brightgreen)](https://projects.dfki.uni-kl.de/shape25d/)
 [![Open Access](https://img.shields.io/badge/Open%20Access-Yes-blue)](#)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-purple)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -17,7 +17,7 @@ Official repository of the paper titled "[Shape2.5D: A Dataset of Texture-less S
 >   - 302k synthetic frames for 35 3D models.
 >   - 62k more synthetic frames for 2600 3D models of 13 common ShapeNet objects.
 >   - 4672 real-world frames for 6 clothing and household items.
->   - Available for download [here](https://projects.dfki.uni-kl.de/textureless_object_data/).
+>   - Available for download [here](https://projects.dfki.uni-kl.de/shape25d/).
 > - Benchmarks using an encoder-decoder network for depth and normals estimation.
 > - Our repository also contains:
 >   - The [generation pipeline](#generation-pipeline) using Blender and Python.
